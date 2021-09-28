@@ -1,0 +1,4 @@
+make.exe -f "g:\D\projects\github\mrunmoy\cpp\van-eck\Makefile" --dry-run --keep-going --print-directory
+'"make.exe"' is not recognized as an internal or external command,
+operable program or batch file.
+ 
